@@ -1,0 +1,6 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore ipython checkpoints
+*.ipynb_checkpoints
+*checkpoint.ipynb
